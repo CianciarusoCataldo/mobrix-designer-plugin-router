@@ -1,8 +1,8 @@
 # MoBrix-designer-plugin-router
 
-![NPM](https://img.shields.io/npm/l/mobrix-designer-plugin-router?label=License&style=for-the-badge)
-![npm (scoped)](https://img.shields.io/npm/v/mobrix-designer-plugin-router?color=orange%20&label=Latest%20version&style=for-the-badge&logo=npm)
-![npm bundle size](https://img.shields.io/bundlephobia/min/mobrix-designer-plugin-router?label=Package%20size&style=for-the-badge)
+![NPM](https://img.shields.io/npm/l/mobrix-designer-plugin-router?color=green&label=License&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/mobrix-designer-plugin-router?color=orange&label=Latest%20version&style=for-the-badge&logo=npm)
+![npm bundle size](https://img.shields.io/bundlephobia/min/mobrix-designer-plugin-router?label=Minified%20size&style=for-the-badge)
 ![Maintenance](https://img.shields.io/maintenance/yes/2025?label=Maintained&style=for-the-badge)
 
 <br>
