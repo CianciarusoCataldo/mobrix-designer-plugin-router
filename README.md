@@ -7,6 +7,10 @@
 
 <br>
 
+A complete page routing system for [MoBrix-designer system](https://github.com/CianciarusoCataldo/mobrix-designer)
+
+<br>
+
 ---
 
 ## Summary
@@ -18,11 +22,11 @@
 
 <br>
 
-A complete page routing system for [MoBrix-designer system](https://github.com/CianciarusoCataldo/mobrix-designer)
-
 ---
 
 ## Getting started
+
+<br>
 
 ### Installation
 
